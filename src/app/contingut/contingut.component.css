@@ -1,9 +1,9 @@
 #contingut {
-  width: 50%;
-  height: 80%;
+  width: 60%;
+  height: 85%;
   background: linear-gradient(lightsteelblue, grey);
   float: right;
-  margin-right: 4%;
+  margin-right: 20%;
   border: solid 1px black;
 
 }
@@ -12,15 +12,15 @@
   width: 30%;
   height: 25%;
   float: left;
-  margin-top: 4%;
-  margin-left: 8%;
+  margin-top: 1%;
+  margin-left: 1%;
 }
 
 #info1 img {
   width: 80%;
   height: 80%;
   margin-top: 7%;
-  margin-left: 10%;
+  margin-left: 1%;
   border: solid 1px black;
 }
 /*Segon bloc de info*/
